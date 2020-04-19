@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Pre-Work Week 1",
+        "date": "Feb. 24, 2020",
+        "questions"
+		"paragraphs": [
+			"1. Was your first week what you expected?
+                Overall, this first week was more difficult than what I was expecting.
+                        I thought there would be some more baby steps before we had to really know what we were doing.
+                        Justin keeps reminding us that discomfort is the desired state to be in; I've mastered that, at
+                        least!,
+                        "2. What are you struggling with?
+                        <p>Navigating through GitHub wasn't so bad,
+                            but applying CLI in the terminal was brand new and the source of much stress!
+                            Generally, with CLI and GitHub, I feel like the commands and basic operations make sense in
+                            theory,
+                            but when it's time for me to execute them, it's overwhelming and then frustrating when I
+                            inevitably
+                            make the wrong choice",
+			"3. What are you excited or eager to learn more about?
+            I am looking forward to learning about HTML and about doing things that affect the appearance
+                of web pages.",
+                "4. "Aha" moment of the week:
+                    After being guided through setting up an index.html file in VS Code and
+                        then pushing it to GitHub, I felt like I didn't need to worry about the 1,000 other
+                        things I was trying to figure out and could just enjoy working with that set of commands. I'm
+                        still
+                        not
+                        confident I really know what I'm doing, but it's a nice feeling to be able to tell my computer
+                        to do
+                        certain things and have it actually do them! (If this past week was like telling all of us to
+                        drive
+                        somewhere
+                        and everyone else has gotten there by now, I feel like I figured out how to put the key in the
+                        ignition.
+                        Baby steps.)",
+                "5. One cool thing I learned this week about coding:
+                    A few days ago, someone on Slack referenced CLI, and I didn't know what he was talking about.
+                        Now, I not only know what it stands for, but I can use it correctly! (At least to a small extent
+                        at this point.)"
+        ]
+
+    },
+    { 
+        "title": "Pre-Work Week 1",
+        "date": "Feb. 24, 2020",
+        "questions"
+		"paragraphs": [
+            "1. What are your thoughts on pseudocoding?
+        It looks like an interesting topic that will be integral to our coming work. I'm sure it will get much more complicated pretty quickly!",
+        "2. What are you struggling with?
+        I still find using Git to be the most intimidating aspect of the work so far, but I think I'm slowly but surely making strides with understanging the commands and am feeling more comfortable using them.",
+            "3. What are you excited or eager to learn more about?
+            While the basics of CSS are fairly straightforward, it seems like an endless process to learn about each of the different commands and their effects on the layout of the page",
+            "4. One cool thing I learned this week about coding:
+            I can't narrow down one thing because there have been countless times I've thought, "Oh, so <em>that's</em> how you do that!" I will say that before I looked into it, adding multiple pages to a website seemed like something that would be tricky to do, but it's actually not hard at all. (Finally, something isn't!)"
+
+]

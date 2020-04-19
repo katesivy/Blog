@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
+import Blog from './Components/Blog';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
      <Navbar />
      <Home />
+     <Blog />
       <header className="App-header">
        
           

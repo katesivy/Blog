@@ -1,8 +1,16 @@
 a {
-  width: 300px
+  width: 100px
 }
 
 img {
   min-height: 900px;
   
+}
+
+nav {
+  width: 500px;
+}
+
+li.nav-item {
+  width: 90px;
 }
