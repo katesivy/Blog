@@ -14,3 +14,9 @@ nav {
 li.nav-item {
   width: 90px;
 }
+
+#profilePic {
+  max-height: 20em;
+  min-height: 20em;
+  max-width: 20em; 
+}

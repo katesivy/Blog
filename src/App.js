@@ -1,23 +1,46 @@
 import React from 'react';
-import './App.css';
-import Navbar from './Components/Navbar';
 import Home from './Components/Home';
-import Blog from './Components/Blog';
+import BlogPosts from './Components/BlogPosts';
+import About from './Components/About';
+// import Navbar from './Components/Navbar';
+import NavBar from './Components/NavBar';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+import axios from 'axios';
 
-function App() {
+
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+
+} from "react-router-dom";
+
+export default function App() {
   return (
+    <Router>
+      <div>
 
-    <div className="App">
-     <Navbar />
-     <Home />
-     <Blog />
-      <header className="App-header">
-       
-          
-      </header>
-     
-    </div>
+
+        <Switch>
+          <Route path="/about">
+            <NavBar />
+            <About />
+          </Route>
+          <Route path="/blogposts">
+            <NavBar />
+            <BlogPosts />
+          </Route>
+          <Route path="/">
+            <NavBar />
+            <Home />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
-export default App;
+
+
