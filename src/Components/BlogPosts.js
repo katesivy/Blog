@@ -1,56 +1,56 @@
-// import posts from './Posts.json';
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import React from "react";
+import posts from './Posts.json';
 
 
 export default function BlogPosts() {
-  const [posts, setPosts] = useState('');
-  const [blogPosts, setBlogPosts] = useState([]);
 
-  useEffect(() => {
-    const blogPosts = async () => {
-      // e.preventDefault();
-      await axios.get('http://127.0.0.1:8000/api/posts')
-        .then(response => {
-          console.log(response);
-          setPosts(response.data.data);
-        })
-        .catch(error => {
-          console.log(error)
-        });
+
+  console.log(posts)
+
+  // console.log(Posts.title)
+
+  // const blogTitle = posts.map((item, index) => {
+  //   return (
+  //     item.title
+  //   )
+  // })
+  // const blogParagraphs = posts.map((item, index) => {
+  //   return (
+  //     item.paragraphs
+  //   )
+  // })
+  function splitParas(post) {
+    return post.map((item, index) => {
+      if (index % 2 === 0) {
+        return <h5 key={index}>{item}</h5>
+      } else {
+        return <p key={index}>{item}</p>
       }
-      blogPosts();
-    }, []);
+    })
+  }
 
 
+  const blogPost = posts.map((item, index) => {
+
+    return (
+      <>
+      <div className="card-header">
+        <h1> {item.title}</h1>
+      </div>
+      <div key={index} className="card-body">
+        {/* <h5 className="card-title mb-5">
+        </h5> */}
+        <p className="card-text">
+          {splitParas(item.paragraphs)}
+        </p>
+      </div>
+    </>
+      )
+  });
   return (
     <div>
-    <h1>Blog Posts:</h1>
-      {blogPosts}
+      {blogPost}
     </div>
   )
+
 }
-
-    // console.log(Posts.title)
-
-    // const blogPosts = posts.map((item, index) => {
-    //     return (
-    //       // console.log(item.title)
-    //       <div>
-    //        <h1>{item.title}</h1>  
-    //       <p>{item.paragraphs}</p>
-    //        </div>
-    //     )
-    //   })
-
-
-
-    //   return (
-    //     <div> 
-    //      {blogPosts}
-    //     </div>
-  
-
-
-
-

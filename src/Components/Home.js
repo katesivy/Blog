@@ -20,3 +20,25 @@ export default function Home() {
         </>
     )
 }
+
+// return (
+//     <div>
+//     {/* <h1>Blog Posts:</h1> */}
+//       {blogPosts}
+//       <div  className="card">
+//   <div  className="card-header">
+//    Week
+//   </div>
+//   <div  className="card-body">
+//     <h5  className="card-title">Question</h5>
+//     <p  className="card-text">Answer</p>
+//     <h5  className="card-title">Question</h5>
+//     <p  className="card-text">Answer</p>
+//     <h5  className="card-title">Question</h5>
+//     <p  className="card-text">Answer</p>
+ 
+//   </div>
+// </div>
+//     </div>
+//   )
+// }
