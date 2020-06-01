@@ -4,22 +4,8 @@ import posts from './Posts.json';
 
 export default function BlogPosts() {
 
-
-  console.log(posts)
-
-  // console.log(Posts.title)
-
-  // const blogTitle = posts.map((item, index) => {
-  //   return (
-  //     item.title
-  //   )
-  // })
-  // const blogParagraphs = posts.map((item, index) => {
-  //   return (
-  //     item.paragraphs
-  //   )
-  // })
-  function splitParas(post) {
+ 
+  function splitPosts(post) {
     return post.map((item, index) => {
       if (index % 2 === 0) {
         return <h5 key={index}>{item}</h5>
@@ -34,21 +20,23 @@ export default function BlogPosts() {
 
     return (
       <>
-      <div className="card-header">
-        <h1> {item.title}</h1>
+      <div key={index} className="card-header m-1"  id="about">
+     
+        <h1 id={item.title}> {item.title} </h1>
+     
       </div>
-      <div key={index} className="card-body">
+      <div key={index} className="card-body p-5">
         {/* <h5 className="card-title mb-5">
         </h5> */}
         <p className="card-text">
-          {splitParas(item.paragraphs)}
+          {splitPosts(item.paragraphs)}
         </p>
       </div>
     </>
       )
   });
   return (
-    <div>
+    <div className=" ">
       {blogPost}
     </div>
   )

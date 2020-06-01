@@ -10,13 +10,40 @@ img {
 nav {
   width: 500px;
 }
+/* #home {
+  background-color: #CCAF71;
+  color: #CCAF71
+} */
+/* #home1 {
+  /* background-color: #CCAF71; */
+  /* color: #CCAF71
+} */ 
+
+#navbar {
+  background-color: grey;
+  /* background-color: #F7D97E; */
+  /* background-color:#9C8660; */
+}
+
+#about {
+  background-color:#F5F4F0;
+}
+
+#jumbotron
+{
+background-color:#F5F4F0;
+}
+
+#link{
+  color: white;
+}
 
 li.nav-item {
   width: 90px;
 }
 
 #profilePic {
-  max-height: 20em;
-  min-height: 20em;
-  max-width: 20em; 
+  max-height: 12em;
+  min-height: 12em;;
+  max-width: 12em;; 
 }

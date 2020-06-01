@@ -1,14 +1,10 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Home from './Components/Home';
 import BlogPosts from './Components/BlogPosts';
 import About from './Components/About';
-// import Navbar from './Components/Navbar';
 import NavBar from './Components/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import axios from 'axios';
-
-
 import {
   BrowserRouter as Router,
   Switch,
@@ -18,6 +14,9 @@ import {
 } from "react-router-dom";
 
 export default function App() {
+
+  const [url, setUrl] = useState('');
+
   return (
     <Router>
       <div>
@@ -29,7 +28,7 @@ export default function App() {
             <About />
           </Route>
           <Route path="/blogposts">
-            <NavBar />
+            <NavBar  />
             <BlogPosts />
           </Route>
           <Route path="/">
