@@ -1,7 +1,7 @@
 [
     {
-        "title": "Pre-Work Week 1",
-        "date": "Feb. 24, 2020",
+        "title": "Week 1",
+        "location": "Pre-Work",
         "paragraphs": [
             "Was your first week what you expected?",
             "Overall, this first week was more difficult than what I was expecting. I thought there would be some more baby steps before we had to really know what we were doing. Justin keeps reminding us that discomfort is the desired state to be in; I've mastered that, at least!",
@@ -12,12 +12,12 @@
             "Aha moment of the week:",
             "After being guided through setting up an index.html file in VS Code and then pushing it to GitHub, I felt like I didn't need to worry about the 1,000 other things I was trying to figure out and could just enjoy working with that set of commands. I'm still not confident I really know what I'm doing, but it's a nice feeling to be able to tell my computer to do certain things and have it actually do them! (If this past week was like telling all of us to drive somewhere and everyone else has gotten there by now, I feel like I figured out how to put the key in the ignition. Baby steps.)",
             "One cool thing I learned this week about coding:",
-            "A few days ago, someone on Slack referenced CLI, and I didn't know what he was talking about.Now, I not only know what it stands for, but I can use it correctly! (At least to a small extent at this point.)"
+            "A few days ago, someone on Slack referenced CLI, and I didn't know what he was talking about. Now, I not only know what it stands for, but I can use it correctly! (At least to a small extent at this point.)"
         ]
     },
     {
-        "title": "Pre-Work Week 2",
-        "date": "Feb. 24, 2020",
+        "title": "Week 2",
+        "location": "Pre-Work",
         "paragraphs": [
             "What are your thoughts on pseudocoding?",
             "It looks like an interesting topic that will be integral to our coming work. I'm sure it will get much more complicated pretty quickly!",
@@ -26,40 +26,77 @@
             "What are you excited or eager to learn more about?",
             "While the basics of CSS are fairly straightforward, it seems like an endless process to learn about each of the different commands and their effects on the layout of the page",
             "One cool thing I learned this week about coding:",
-            "I can't narrow down one thing because there have been countless times I've thought, Oh, so that's how you do that! I will say that before I looked into it, adding multiple pages to a website seemed like something that would be tricky to do, but it's actually not hard at all. (Finally, something isn't!)"
+            "I can't narrow down one thing because there have been countless times I've thought, \"Oh, so that's how you do that!\" I will say that before I looked into it, adding multiple pages to a website seemed like something that would be tricky to do, but it's actually not hard at all. (Finally, something isn't!)"
         ]
     },
     {
-        "title": "Pre-Work Week 3",
+        "title": "Week 3",
+        "location": "Pre-Work",
         "paragraphs": [
             "What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?",
             "It seems like HTML provides the building blocks, CSS makes it attractive, and JavaScript makes it interesting and possible to interact with.",
             "What are some objects that your blog incorporates?",
             "I have a background image, tabs for the pages of each week & home, and my email and other contact info. The blog is usually saved for when I've finished my reading and assignments for the week, so it doesn't have as many objects as it should!",
             "Aha moments:",
-            "I'm still waiting for my Aha moments to occur! The work earlier in the week was more an issue of remembering basic terms and rules about how CSS or JavaScript work generally; now that I'm having to apply these ideas and logic in things like katas, it's a whole different process."
+            "I'm still waiting for my \"Aha\" moments to occur! The work earlier in the week was more an issue of remembering basic terms and rules about how CSS or JavaScript work generally; now that I'm having to apply these ideas and logic in things like katas, it's a whole different process."
         ]
     },
     {
-        "title": "Pre-Work Week 4",
+        "title": "Week 4",
+        "location": "Pre-Work",
         "paragraphs": [
             "What was one thing you liked and disliked about each of the new topics covered in prework?",
-            "Starting with Git, there were no end to the things I disliked about it initially. It seemed like this nebulous thing that had no clear connection to anything in real life, yet was essential to operate successfully and impossible to figure out at the same time. I think I've gotten over my fear of it, after giving some commands incorrectly and being able to fix my mistakes (all by myself!). Now that I understand more of its connection to real life, I can appreciate that it creates folders to write code with and saves them and then puts them in a place where they transform into web pages that others can also see. HTML is so straight forward, and I especially appreciate that after working with JavaScript! You type in what you want to appear, and it appears, with no need for magic! You just have to follow the rules, which are fairly clear. It can be a little tedious with long documents, and of course there's nothing overly interesting or exciting about it. But it doesn't give me the headaches or levels of stress that I get with CSS and especially JavaScript! I like that CSS can do so much (and way more than I've experienced with it so far) with altering the layout of a page and can transform a document from looking like a Word document to looking like a decent web page. It's not as clear and simple as it seems at first, though; it has that same frustrating aspect as JavaScript where you type something that you expect to do one thing, and instead it does another or does nothing at all. Thankfully, unlike JavaScript, it doesn't cause everything to fail if you mess up CSS, so the level of frustration is less. JavaScript, if you can't tell by this point, is not quite my friend yet. We're getting there, though.I like how it is capable of so many things and how it relies on logic. But I don't enjoy spending long amounts of time working out complex ideas and formulas, only to have them not work because you forgot a comma somewhere.",
+            "Starting with Git, there were no end to the things I disliked about it initially. It seemed like this nebulous thing that had no clear connection to anything in real life, yet was essential to operate successfully and impossible to figure out at the same time. I think I've gotten over my fear of it, after giving some commands incorrectly and being able to fix my mistakes (all by myself!). Now that I understand more of its connection to real life, I can appreciate that it creates folders to write code with and saves them and then puts them in a place where they transform into web pages that others can also see. HTML is so straight forward, and I especially appreciate that after working with JavaScript! You type in what you want to appear, and it appears, with no need for magic! You just have to follow the rules, which are fairly clear. It can be a little tedious with long documents, and of course there's nothing overly interesting or exciting about it. But it doesn't give me the headaches or levels of stress that I get with CSS and especially JavaScript! I like that CSS can do so much (and way more than I've experienced with it so far) with altering the layout of a page and can transform a document from looking like a Word document to looking like a decent web page. It's not as clear and simple as it seems at first, though; it has that same frustrating aspect as JavaScript where you type something that you expect to do one thing, and instead it does another thing or does nothing at all. Thankfully, unlike JavaScript, CSS doesn't cause everything to fail if you mess up, so the level of frustration is less. JavaScript, if it's not clear by this point, is not quite my friend yet. We're getting there, though. I like how it is capable of so many things and how it relies on logic. But I don't enjoy spending long amounts of time working out complex ideas and formulas, only to have them not work because you forgot a comma somewhere.",
             "What was helpful?",
             "It was definitely helpful having Slack available to ask questions. Doing Google hangouts also saved me from hours of frustration and problems I could not have solved by myself.",
             "What hindered your progress?",
-            "The biggest hindrance for my progress was lack of time. I'm sure I spent the minimum 16-20 hours and more each week on the work, but with work and family obligations interrupting parts of each day, there was never as much time as I would have liked before we were on to the next thing. And coming from almost zero knowledge of any of these topics, and even with little experience on a MacBook or using a computer for anything beyond surfing internet browsers, I needed extra time to figure things out and absorb information."
+            "The biggest hindrance for my progress was lack of time. I'm sure I spent the minimum 16-20 hours and more each week on the bootcamp work, but with my job and family obligations interrupting parts of each day, there was never as much time as I would have liked before we were on to the next thing. And coming from almost zero knowledge of any of these topics, and with little experience even on a MacBook, I needed extra time to figure things out and absorb information."
         ]
     },
     {
-        "title": "Week 1",
+        "title": "Weeks 1-2",
+        "location": "In Person",
+        "paragraphs": [
+            "What did you learn about that helped you understand more about design?",
+            "The principles of \"CRAP\" were basically new to me (beyond what common sense would have dictated anyway). There are several criteria for good designs that have stuck with me since our discussion about it, but the one that stuck with me the most is what the eye first sees when it looks at a flyer/web page/etc. The primary content of your document should be the first thing people see regardless of a cool design or other pieces of information that could distract viewers.",
+            "What do you want to continue learning about that helps you understand design better?",
+            "I look forward to getting better acquainted with all of the elements of design, but contrast is one area I feel less secure with than the others.",
+            "What Design aspects are important to you as a user and as a developer?",
+            "When I'm viewing a document, I appreciate not only having the main content being the focal point, but also not having tons of stuff crowded around it or crammed onto the document. As a developer, I want to make sure my product is easy for others to understand and navigate.",
+            "What is the number one thing that held you back this week? Why?",
+            "I was frustrated with myself this week on the Campaign Components project because I had a hard time coming up with a design, and when I changed my mind about using the carousel and then decided later to go back to it, I wasted a lot of time that I could have been using to make my project more interesting. I didn't have a clear plan for what to do, so instead of going through a list and trying to execute each idea, I found myself randomly searching through Bootstrap pages for information that would give me ideas, which didn't get me very far.",
+            "What is one thing you would like to get better at in bootcamp?",
+            "I feel like a total baby developer who needs to get better at absolutely everything, but right now my biggest weakness is JavaScript. I look forward to not being so intimidated by it and to feeling comfortable enough to use it creatively on my own."
+        ]
+    },
+    {
+        "title": "Weeks 3-4",
+        "location": "In Person",
+        "paragraphs": [
+            "What did you learn about that helped you understand the development process?",
+            "This process takes patience. It also requires the ability to understand the big picture of what your code should be doing while also being able to discern the next step needed and to scrutinize the little details of syntax or spelling.",
+            "What does it mean to develop good code?",
+            "Good code is easy for other programmers to understand as well as being effective.",
+            "What does it mean to be a good developer?",
+            "Being a good developer involves writing clear, concise code without being redundant.",
+            "What is one thing that programmers hate doing?",
+            "Programmers hate reading code that is unorganized and needlessly repetitive."
+        ]
+    },
+
+
+
+    {
+        "title": "Week 5",
+        "location": "Remote",
         "paragraphs": [
             "How do you feel now (week 5) compared to when you started?",
-            "I'm feeling a lot more proficient in so many ways. When I first started this bootcamp, everything was so new and foreign to me, and now have learned so many things I don't even know where to begin listing them. I can tell I've grown in my 'computational thinking' and am more secure in my ability to break down a problem into small enough parts that I can work through them and progress toward a solution."
+            "I'm feeling a lot more proficient in so many ways. When I first started this bootcamp, everything was so new and foreign to me, and now I have learned so many things I don't even know where to begin listing them. I can tell I've grown in my 'computational thinking' and am more secure in my ability to break down a problem into small enough parts that I can work through them and progress toward a solution."
         ]
     },
     {
-        "title": "Week 2",
+        "title": "Week 6",
+        "location": "Remote",
         "paragraphs": [
             "What do you like about React?",
             "React makes it easier to understand the roles and relationships between parent components and their children.",
@@ -73,77 +110,17 @@
             "My final project ideas are still similar to what they were a few weeks ago, and they still are a bit fuzzy in my head. I think I'll have more clarity after we do some backend work in the coming weeks."
         ]
     },
-    {
-        "title": "Week 3",
-        "paragraphs": [
-            "What have you learned about PHP and server side programming that you were not aware of prior to this week?",
-            "Since I didn't even know what PHP and server side programming was before this week, I have learned a ton. One overall aspect I've learned about PHP is that it's a great tool to use to display specific information from databases, but it's got it's share of limitations as well.",
-            "What do you want to know more about PHP and server side programming?",
-            "I would like to get more practice with and understanding of forms...different ways of setting them up and what all the connections are with how they're built and the information passed from them.",
-            "How has learning PHP been? What are some similarities and differences you can see with JS?",
-            "Learning PHP was fun when it was at the W3 Schools hand-holding stage, but it became less fun when we had to implement our knowledge in the much more complex, real-life version of our own PHP-built facebook. It is more similar to JS than I expected going in (thinking backend development might be completely different from front-end). I remember spending a long time figuring out how to display seconds with two digits in our JS countdown timer, and PHP does it automatically!",
-            "What if you had started with PHP instead of JS?",
-            "I think it might have been harder to learn JS after learning PHP, since JS has fewer 'magic' functions, a bit like doing things by hand is harder when you come from using a calculator.",
-            "Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?",
-            "I haven't made plans yet to refactor any projects, but I'm sure I'll get to that point when the main part of bootcamp is over. I can imagine things like the countdown timer or weather app could be simplified with PHP.",
-            "Find one library, framework, NPM package, and/or external web API you think you might want use for your final project.",
-            "Right now, I think React would be a good framework to use for my final project. It's capable of doing so much all at once, so I'm sure it would be a helpful tool."
-        ]
-    },
-    {
-        "title": "Week 4",
-        "paragraphs": [
-            "What are your thoughts about how far you have come? How has your Digital Literacy, Computational Thinking, and Adoption of Coding Culture increased?",
-            "I definitely have grown in my digital literacy and computational thinking by this point compared to when I started. Considering I barely knew how to do anything on my computer besides access the internet when this class started, I'd say I've come a long way! I feel like this past month I've also improved my ability to break things down into tiny steps as well as steps that are more appropriate for communicating with a computer, even though I know there's still room for improvement.",
-            "How do you plan on continuing to grow those areas?",
-            "Every project we work on is an opportunity for me to grow in these areas. I also plan to work more on katas, which are a good way to practice this type of thinking.",
-            "What are you struggling with the most in the Tech Stack so far and why?",
-            "I feel less secure in my abilities with php and MySQL because we had about 1 day to learn each of them, and I never felt like I mastered the skills I needed to when working on the sql heroes project. So even though we've used those languages since then with Laravel, it isn't quite the same.",
-            "What were your main takeaways from the career fair?",
-            "Our session with Brian and Katie discussing jobs was really eye-opening. I was surprised at the difficulty we should expect in finding a job and the amount of time and effort it may take before we get one. I also hadn't thought of some of the tips for interviewing, like sending thank-you notes and the importance of frequent communication even when we think it might come across as annoying. It was a good reminder to me to present myself in a positive light whenever I talk about myself and my skills, which is a challenge since self-confidence is not one of my strong suits; I've been reminding myself of that since then and am improving.",
-            "After making it through the tech stack, where do you think your current gaps are?",
-            "I think my biggest gaps might be with the php/sql areas, but hopefully a little more time with them will fix that."
-        ]
-    },
-    {
-        "title": "Week 5",
-        "paragraphs": [
-            "What did you learn about that helped you understand more about design?",
-            "The principles of CRAP were basically new to me (beyond what common sense would have dicated anyway). There are several criteria for good designs that have stuck with me since our discussion about it, but the one that stuck with me the most is what the eye first sees when it looks at a flyer/web page/etc. The primary content of your document should be the first thing people see regardless of a cool design or other pieces of information that could distract viewers.",
-            "What do you want to continue learning about that helps you understand design better?",
-            "I look forward to getting better aquainted with all of the elements of design, but contrast is one area I feel less secure with than the others.",
-            "What Design aspects are important to you as a user and as a developer?",
-            "When I'm viewing a document, I appreciate not only having the main content being the focal point, but also not having tons of stuff crowded around it or cramed onto the document. As a developer, I want to make sure my product is easy for others to understand and navigate.",
-            "What is the number one thing that held you back this week? Why?",
-            "I was frustrated with myself this week on the Campaign Components project because I had a hard time coming up with a design, and when I changed my mind about using the carousel and then decided later to go back to it, I wasted a lot of time that I could have been using to make my project more interesting. I didn't have a clear plan for what to do, so instead of going through a list and trying to execute each idea, I found myself randomly searching through Bootstrap pages for information that would give me ideas, which didn't get me very far.",
-            "What is one thing you would like to get better at in bootcamp?",
-            "I feel like a total baby developer who needs to get better at absolutely everything, but right now my biggest weakness is JavaScript. I look forward to not being so intimidated by it and to feeling comfortable enough to use it creatively on my own."
-        ]
-    },
-    {
-        "title": "Week 6",
-        "paragraphs": [
-            "What did you learn about that helped you understand the development process?",
-            "This process takes patience. It also requires the ability to understand the big picture of what your code should be doing while also being able to discern the next step needed and to scrutinize the little details of syntax or spelling.",
-            "What does it mean to develop good code?",
-            "Good code is easy for other programmers to understand as well as being effective.",
-            "What does it mean to be a good developer?",
-            "Being a good developer involves writing clear, concise code without being redundant.",
-            "What is one thing that programmers hate doing?",
-            "Programmers hate reading code that is unorganized and needlessly repetitive."
-        ]
-    },
+   
     {
         "title": "Week 7",
+        "location": "Remote",
         "paragraphs": [
             "What have you learned about PHP and server side programming that you were not aware of prior to this week?",
             "Since I didn't even know what PHP and server side programming was before this week, I have learned a ton. One overall aspect I've learned about PHP is that it's a great tool to use to display specific information from databases, but it's got it's share of limitations as well.",
             "What do you want to know more about PHP and server side programming?",
-            "I would like to get more practice with and understanding of forms...different ways of setting them up and what all the connections are with how they're built and the information passed from them.",
+            "I would like to get more practice with and understanding of forms...different ways of setting them up and what the connections are with how they're built and the information passed from them.",
             "How has learning PHP been? What are some similarities and differences you can see with JS?",
             "Learning PHP was fun when it was at the W3 Schools hand-holding stage, but it became less fun when we had to implement our knowledge in the much more complex, real-life version of our own PHP-built facebook. It is more similar to JS than I expected going in (thinking backend development might be completely different from front-end). I remember spending a long time figuring out how to display seconds with two digits in our JS countdown timer, and PHP does it automatically!",
-            "What if you had started with PHP instead of JS?",
-            "I think it might have been harder to learn JS after learning PHP, since JS has fewer 'magic' functions, a bit like doing things by hand is harder when you come from using a calculator.",
             "Are there any exercises you think would be improved if you refactored them to PHP from JS? Do you plan to?",
             "I haven't made plans yet to refactor any projects, but I'm sure I'll get to that point when the main part of bootcamp is over. I can imagine things like the countdown timer or weather app could be simplified with PHP.",
             "Find one library, framework, NPM package, and/or external web API you think you might want use for your final project.",
@@ -152,21 +129,23 @@
     },
     {
         "title": "Week 8",
+        "location": "Remote",
         "paragraphs": [
             "What are your thoughts about how far you have come? How has your Digital Literacy, Computational Thinking, and Adoption of Coding Culture increased?",
-            "I definitely have grown in my digital literacy and computational thinking by this point compared to when I started. Considering I barely knew how to do anything on my computer besides access the internet when this class started, I'd say I've come a long way! I feel like this past month I've also improved my ability to break things down into tiny steps as well as steps that are more appropriate for communicating with a computer, even though I know there's still room for improvement.",
+            "I definitely have grown in my digital literacy and computational thinking by this point compared to when I started. Considering I barely knew how to do anything when this class started, I'd say I've come a long way! I feel like this past month I've also improved my ability to break things down into tiny steps as well as steps that are more appropriate for communicating with a computer, even though I know there's still room for improvement.",
             "How do you plan on continuing to grow those areas?",
             "Every project we work on is an opportunity for me to grow in these areas. I also plan to work more on katas, which are a good way to practice this type of thinking.",
             "What are you struggling with the most in the Tech Stack so far and why?",
-            "I feel less secure in my abilities with php and MySQL because we had about 1 day to learn each of them, and I never felt like I mastered the skills I needed to when working on the sql heroes project. So even though we've used those languages since then with Laravel, it isn't quite the same.",
+            "I feel less secure in my abilities with PHP and MySQL because we had about 1 day to learn each of them, and I never felt like I mastered the skills I needed to have when working on the sql heroes project. So even though we've used those languages since then with Laravel, it isn't quite the same.",
             "What were your main takeaways from the career fair?",
-            "Our session with Brian and Katy discussing jobs was really eye-opening. I was surprised at the difficulty we should expect in finding a job and the amount of time and effort it may take before we get one. I also hadn't thought of some of the tips for interviewing, like sending thank-you notes and the importance of frequent communication even when we think it might come across as annoying. It was a good reminder to me to present myself in a positiv4. e light whenever I talk about myself and my skills, which is a challenge since self-confidence is not one of my strong suits; I've been reminding myself of that since then and am improving.",
+            "Our session with Brian and Katy discussing jobs was really eye-opening. I was surprised at the difficulty we should expect in finding a job and the amount of time and effort it may take before we get one. I also hadn't thought of some of the tips for interviewing, like sending thank-you notes and the importance of frequent communication even when we think it might come across as annoying. It was a good reminder to me to present myself in a positive light whenever I talk about myself and my skills, which is a challenge since self-confidence is not one of my strong suits; I've been reminding myself of that since then and am improving.",
             "After making it through the tech stack, where do you think your current gaps are?",
-            "I think my biggest gaps might be with the php/sql areas, but hopefully a little more time with them will fix that."
+            "I think my biggest gaps might be with the PHP/SQL areas, but hopefully a little more time with them will fix that."
         ]
     },
     {
-        "title": "Week 12",
+        "title": "Week 9",
+        "location": "Remote",
         "paragraphs": [
             "What are your thoughts about Laravel and React?",
             "I enjoy both of those frameworks but have only used them together for one day so far, so I'm still learning about their relationship to each other. I really like Laravel because of what we've done with it so far, especially using the Laracasts, so it seems less mysterious and more navigable than the other languages/frameworks did at first. I was just feeling comfortable with React before we moved on to back-end development, so I think I'll keep enjoying it again now that we're integrating it with Laravel.",
@@ -177,8 +156,7 @@
             "What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project?",
             "One basic feature that will be helpful additions to my project are the login/register capabilities of laravel (even though react it will be combined with react).",
             "How many jobs have you applied to?",
-            "I haven't applied to any jobs yet. I want to get my projects and basic programming knowledge in a little better shape before I apply for jobs.",
-            "Look back on the old questions to see if any of them would be good to answer this week compared to week 1."
+            "I haven't applied to any jobs yet. I want to get my projects and basic programming knowledge in a little better shape before I apply for jobs."
         ]
     }
 ]

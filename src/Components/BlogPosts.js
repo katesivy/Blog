@@ -23,6 +23,7 @@ export default function BlogPosts() {
       <div key={index} className="card-header m-1"  id="about">
      
         <h1 id={item.title}> {item.title} </h1>
+        <p id={item.location} className="ml-4"> {item.location} </p>
      
       </div>
       <div key={index} className="card-body p-5">

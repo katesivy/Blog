@@ -62,16 +62,15 @@ export default function About() {
         <h5 className="card-header" id="jumbotron"></h5>
         <div className="card-body p-5 m-2">
           <h5 className="card-title">My story</h5>
-          <p className="card-text">I have been a stay-at-home mom for the past 10 years and a musician my whole life. Since I earned a masters degree in piano performance in 2003, I’ve been teaching piano lessons, accompanying other musicians, and providing piano accompaniment for ballet classes at UK, the Bluegrass Youth Ballet, and KY’s Governor’s School for the Arts. I had been looking for a career change and realized this past year that web development uses many of the same skill sets I’ve developed through years of studying music and raising children. I’ve been surprised how many times while learning the to program that I’ve thought, “This is just like how I would go about learning a piece of music.” I love applying the same attention to detail, creativity, and problem-solving skills used in music to making things work well with technology.
+          <p className="card-text">I have been a stay-at-home mom for the past 10 years and a musician my whole life. Since I earned a masters degree in piano performance in 2003, I’ve been teaching piano lessons, accompanying other musicians, and providing piano accompaniment for ballet classes at UK, the Bluegrass Youth Ballet, and KY’s Governor’s School for the Arts. I had been looking for a career change and realized this past year that web development uses many of the same skill sets I’ve developed through years of studying music and raising children. I’ve been surprised how many times while learning to program that I’ve thought, “This is just like how I would go about learning a piece of music.” I love applying the same attention to detail, creativity, and problem-solving skills used in music to making things work well with technology.
 </p>
 
-          {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
         </div>
       </div>
       <div className="col-6 offset-3 p-3 text-center">
-        <a href="">
+        {/* <a href=""> */}
           <h5>katesivy@gmail.com</h5>
-        </a>
+        {/* </a> */}
       </div>
     </>
   )
