@@ -62,9 +62,11 @@ function Navbar(props) {
                                                     </Link>
                                         {posts.map((item, index) => {
                                             return (
+                                                <li>
                                                 <a href={/BlogPosts/ + item.title}>
-                                                    <li>{item.title}</li>
-                                                </a>
+                                                   {item.title},  {item.location}</a>
+                                                   </li>
+                                                
                                             )
                                         })
                                         }

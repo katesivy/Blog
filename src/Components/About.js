@@ -33,11 +33,13 @@ export default function About() {
             {/* <h5 className="text-inline">JavaScript * React * Laravel * PHP *MySQL * HTML</h5> */}
             <ul className="list-inline"> 
               <li className="list-inline-item"><h5>JavaScript *</h5></li>
+              <li className="list-inline-item"><h5>HTML *</h5></li>
+              <li className="list-inline-item"><h5>CSS *</h5></li>
+              <li className="list-inline-item"><h5>PHP *</h5></li>
               <li className="list-inline-item"><h5>React *</h5></li>
               <li className="list-inline-item"><h5>Laravel *</h5></li>
-              <li className="list-inline-item"><h5>PHP *</h5></li>
               <li className="list-inline-item"><h5>MySQL *</h5></li>
-              <li className="list-inline-item"><h5>HTML</h5></li>
+              <li className="list-inline-item"><h5>Agile Development</h5></li>
             </ul>
 
           </div>
@@ -62,7 +64,7 @@ export default function About() {
         <h5 className="card-header" id="jumbotron"></h5>
         <div className="card-body p-5 m-2">
           <h5 className="card-title">My story</h5>
-          <p className="card-text">I have been a stay-at-home mom for the past 10 years and a musician my whole life. Since I earned a masters degree in piano performance in 2003, I’ve been teaching piano lessons, accompanying other musicians, and providing piano accompaniment for ballet classes at UK, the Bluegrass Youth Ballet, and KY’s Governor’s School for the Arts. I had been looking for a career change and realized this past year that web development uses many of the same skill sets I’ve developed through years of studying music and raising children. I’ve been surprised how many times while learning to program that I’ve thought, “This is just like how I would go about learning a piece of music.” I love applying the same attention to detail, creativity, and problem-solving skills used in music to making things work well with technology.
+          <p className="card-text">I have been a stay-at-home mom for the past 10 years and a musician my whole life. Since I earned a masters degree in piano performance in 2005, I’ve been teaching piano lessons, accompanying other musicians, and providing piano accompaniment for ballet classes at UK, the Bluegrass Youth Ballet, and KY’s Governor’s School for the Arts. I had been looking for a career change and realized this past year that web development uses many of the same skill sets I’ve developed through years of studying music and raising children. I’ve been surprised how many times while learning to program that I’ve thought, “This is just like how I would go about learning a piece of music.” I love applying the same attention to detail, creativity, and problem-solving skills used in music to making things work well with technology.
 </p>
 
         </div>

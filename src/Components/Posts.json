@@ -83,9 +83,6 @@
             "Programmers hate reading code that is unorganized and needlessly repetitive."
         ]
     },
-
-
-
     {
         "title": "Week 5",
         "location": "Remote",
@@ -110,7 +107,6 @@
             "My final project ideas are still similar to what they were a few weeks ago, and they still are a bit fuzzy in my head. I think I'll have more clarity after we do some backend work in the coming weeks."
         ]
     },
-   
     {
         "title": "Week 7",
         "location": "Remote",
@@ -157,6 +153,14 @@
             "One basic feature that will be helpful additions to my project are the login/register capabilities of laravel (even though react it will be combined with react).",
             "How many jobs have you applied to?",
             "I haven't applied to any jobs yet. I want to get my projects and basic programming knowledge in a little better shape before I apply for jobs."
+        ]
+    },
+    {
+        "title": "Post-Bootcamp",
+        "location": "Remote",
+        "paragraphs": [
+            "Assessment of life post-bootcamp:",
+            "It has been two weeks since demo day. I am loving the opportunity to work on projects and a variety of other items on my to-do list (applying for jobs, katas, etc) within a normal schedule without the stress an intensity of the bootcamp. I do miss the social zoom calls with the other bootcampers and the helpful zooms with the instructors, but we still have slack, at least. I thought I might feel somewhat burned out after finishing the bootcamp and not feel like touching my projects again, but it has been fun getting back into it after taking a few days off. Seeing how much easier things are now than they were when I was first learning them months ago has been rewarding, too."
         ]
     }
 ]

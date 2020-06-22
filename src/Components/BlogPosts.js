@@ -20,9 +20,9 @@ export default function BlogPosts() {
 
     return (
       <>
-      <div key={index} className="card-header m-1"  id="about">
+      <div id={/BlogPosts/ + item.title} key={index} className="card-header m-1"  id="about">
      
-        <h1 id={item.title}> {item.title} </h1>
+        <h1 id={/BlogPosts/ + item.title}> {item.title} </h1>
         <p id={item.location} className="ml-4"> {item.location} </p>
      
       </div>
