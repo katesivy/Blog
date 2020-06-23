@@ -3,6 +3,7 @@ import Home from './Components/Home';
 import BlogPosts from './Components/BlogPosts';
 import About from './Components/About';
 import NavBar from './Components/NavBar';
+import Portfolio from './Components/Portfolio';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import {
@@ -30,6 +31,10 @@ export default function App() {
           <Route path="/blogposts">
             <NavBar  />
             <BlogPosts />
+          </Route>
+          <Route path="/portfolio">
+            <NavBar  />
+            <Portfolio />
           </Route>
           <Route path="/">
             <NavBar />

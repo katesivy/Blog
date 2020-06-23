@@ -51,7 +51,7 @@ export default function About() {
           <div className="card-body">
           <ul className="list-inline"> 
           <li className="list-inline-item">
-            <a href="https://www.linkedin.com/in/kate-sivy-7104791a2/" className="card-link"><h5>Linkedin  </h5></a></li>
+            <a href="https://www.linkedin.com/in/kate-sivy-7104791a2/" className="card-link"><h5>LinkedIn  </h5></a></li>
             <li className="list-inline-item"> 
             <a href="https://github.com/katesivy" className="card-link"><h5>GitHub  </h5></a></li>
             <li className="list-inline-item">
